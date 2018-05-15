@@ -1,0 +1,28 @@
+/* CSS Document */
+#nav {
+    color: white;
+}
+
+#altamash {
+    color: #999;
+}
+
+#aboutme {
+    color: #999;
+}
+
+p {
+    color: #999;
+}
+
+#link {
+    color: #999
+}
+
+body {
+    background: url(images/concrete_seamless.png);
+}
+
+#index {
+    border: 1px solid #ddd;
+}
